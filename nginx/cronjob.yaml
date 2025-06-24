@@ -1,0 +1,2 @@
+kind: CronJob
+apiVersion: batch/v1
